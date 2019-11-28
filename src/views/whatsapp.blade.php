@@ -1,1 +1,1 @@
-whatsapp://send?text={{ rawurlencode("$title $url") }}
+https://wa.me/whatsappphonenumber/?text={{ rawurlencode("$title $url") }}
